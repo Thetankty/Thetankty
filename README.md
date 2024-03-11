@@ -77,7 +77,9 @@ No Activity Tracked This Week
 
 
 <div align="center">
-  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&cover_image=true&theme=natemoo-re&show_offline=true&background_color=454545&interchange=false&bar_color=08eb00&bar_color_cover=true)]]
+  <a href= "https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&cover_image=true&theme=natemoo-re&show_offline=true&background_color=454545&interchange=false&bar_color=08eb00&bar_color_cover=true" />
+  </a>
 </div>
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&cover_image=true&theme=natemoo-re&show_offline=true&background_color=454545&interchange=false&bar_color=08eb00&bar_color_cover=true)]]
