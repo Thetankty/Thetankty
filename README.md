@@ -29,9 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,vscode,apple" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,swift,vscode,apple" />
   </a>
 </p>
 
