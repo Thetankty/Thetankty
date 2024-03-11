@@ -2,8 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '03 13 * * *' # Runs at 6:30 PM UTC daily 
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -11,15 +12,4 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Optional, not needed if you exclude the COMMITS_GRAPH parameter 
-          SHOW_COMMITS_GRAPH: "false" # Set to "true" if you want a commit graph and have a GH_TOKEN
-          SHOW_LINES_OF_CODE: "false" # Set to "true" if you want to display total lines of code
-          SHOW_DAYS_OF_DEV: "true"  
-          SHOW_OS: "true" 
-          SHOW_PROJECTS: "true"
-      - uses: actions/checkout@v3
-      - uses: stefanzweifel/git-auto-commit-action@v4.16.1
-        with:
-          commit_message: "Update README with WakaTime stats"
-          file_pattern: README.md
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
