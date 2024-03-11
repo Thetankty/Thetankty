@@ -84,7 +84,7 @@ No Activity Tracked This Week
 
 <div align="center">
   
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetankty&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetankty&layout=compact&theme=midnight-purple&count_private=true&hide_border=true)</a>
     
 </div>
 
