@@ -76,16 +76,12 @@ No Activity Tracked This Week
 </div>
 -->
 
-<div align="center">
+<div align="left">
   <a href= "https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=tyholgate16&cover_image=true&theme=natemoo-re&show_offline=true&background_color=5900ff&interchange=false&bar_color=8000ff&bar_color_cover=false" />
   </a>
-</div>
-
-<div align="center">
   
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetankty&layout=compact&theme=midnight-purple&count_private=true&hide_border=true)</a>
-    
+   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetankty&layout=compact&theme=midnight-purple&count_private=true&hide_border=true)</a>
 </div>
 
 ###
