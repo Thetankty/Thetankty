@@ -20,6 +20,77 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2015%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 4.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 71 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                26 commits          █████████░░░░░░░░░░░░░░░░   36.11 % 
+🌆 Daytime                13 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌃 Evening                18 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  15 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   28 commits          ██████████░░░░░░░░░░░░░░░   38.89 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Thursday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Friday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Saturday                 18 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Sunday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Swift** 
+
+```text
+Swift                    3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Thetankty/Thetankty/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/03/2024 13:14:49 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="left">Connect with me:</h3>
