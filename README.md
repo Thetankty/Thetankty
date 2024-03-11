@@ -29,13 +29,16 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/tyholgate16">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=tyholgate16&count=1&unique=true" alt="Spotify recently played"  />
   </a>
+</div>
 
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetankty&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<div align="center">
   
+    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetankty&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+    
 </div>
 
 <details>
