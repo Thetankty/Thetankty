@@ -36,6 +36,7 @@
 </div>
 
 <div align="right">
+  
    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetankty&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </div>
 
