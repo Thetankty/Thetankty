@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [tylerholgate.co.uk](tylerholgate.co.uk)
 
-- 📫 How to reach me **dev@tylerholgate.co.uk**
+- 📫 How to reach me **tyholgate16@gmail.com**
 
 - 😄 Pronouns: **He/Him**
 
